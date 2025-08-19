@@ -1,0 +1,12 @@
+# MySQL数据库连接
+mysql-connector-python==8.2.0
+PyMySQL==1.1.0
+
+# 数据处理
+pandas==2.1.4
+
+# 配置管理
+python-dotenv==1.0.0
+
+# 日志
+loguru==0.7.2
